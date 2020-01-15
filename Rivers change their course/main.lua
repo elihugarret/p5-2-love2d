@@ -1,3 +1,6 @@
+-- Translated to Love2d from https://www.openprocessing.org/sketch/814856
+-- by https://www.openprocessing.org/user/154720
+
 local C, H = 0, 128
 local W = 700
 
